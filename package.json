@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --verbose",
-    "debug": "yarn build -- --env.debug=1",
-    "watch": "yarn build -- --watch"
+    "build": "webpack",
+    "build:watch": "yarn build -- --watch",
+    "build:log": "yarn build -- --env."
   },
   "repository": {
     "type": "git",
