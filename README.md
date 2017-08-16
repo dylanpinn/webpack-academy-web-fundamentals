@@ -1,5 +1,7 @@
 # Webpack Academy: Web Fundamentals
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dylanpinn/webpack-academy-web-fundamentals.svg)](https://greenkeeper.io/)
+
 ## Topics
 
 - Leveraging NPM Scripts
